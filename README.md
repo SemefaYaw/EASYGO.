@@ -299,12 +299,12 @@
     </style>
 </head>
 <body>
-    
+    <!-- Header -->
     <header>
         <div class="container header-container">
             <div class="logo">
                 <i class="fas fa-bolt fa-2x"></i>
-                <h1>Easy Go</h1>
+                <h1>EasyGo</h1>
             </div>
             <nav>
                 <ul>
