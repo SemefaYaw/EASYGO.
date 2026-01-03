@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -298,7 +299,7 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+    
     <header>
         <div class="container header-container">
             <div class="logo">
